@@ -8,3 +8,7 @@ INSERT INTO STATION VALUES (66, 'Caribou', 'ME', 47, 68);
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+  
