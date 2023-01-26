@@ -1,4 +1,4 @@
-# INSERT INTO STATION VALUES (13, 'Phoenix', 'AZ', 33, 112);
+# INSERT INTO STATION VALUES ( First Step)
 select studentID, FullName, sat_score, recordUpdated, 
 3+2 as five, now() as currentDate 
 from student;INSERT INTO STATION VALUES (44, 'Denver', 'CO', 40, 105);
